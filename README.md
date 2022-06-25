@@ -1,0 +1,1 @@
+Refer to https://github.com/whew-inc/FakeGApps for details
